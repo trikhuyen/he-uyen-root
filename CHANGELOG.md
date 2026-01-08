@@ -1,6 +1,17 @@
 # CHANGELOG
 (All notable changes to this repository are documented here.)
 
+## [0.0.1] – Canonical Order Clarified
+**Date:** 2026-01-01
+
+### Changed
+- Added explicit Canonical Order section to README.md
+  to formally define the hierarchy of foundational documents.
+
+### Notes
+- No changes were made to OATH.md, LAW.md, or CONVENTION.md.
+- This update clarifies structure without altering principles.
+
 ## [0.0.0] – Genesis (Khai Hoang)
 **Date:** 2026-01-01  
 **Status:** Foundational
